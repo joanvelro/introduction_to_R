@@ -1,0 +1,10 @@
+yes
+no
+no
+yes
+ns/nc
+yes
+no
+yes
+ns/nc
+no
